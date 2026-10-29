@@ -1,0 +1,4 @@
+llama-index==0.11.22
+llama-index-llms-openai==0.2.16
+llama-index-embeddings-openai==0.2.5
+pypdf==5.0.1
